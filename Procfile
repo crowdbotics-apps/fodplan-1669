@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT fodplan_1669.wsgi:application
